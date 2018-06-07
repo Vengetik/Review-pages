@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6aded7e-ad8a-4a93-bc46-aea0948cf08b" name="Default" comment="" />
+    <list default="true" id="f6aded7e-ad8a-4a93-bc46-aea0948cf08b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/lastPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/lastPage.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,6 +14,25 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/css/style.css">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="-866">
+                    <caret line="345" column="15" lean-forward="true" selection-start-line="345" selection-start-column="15" selection-end-line="345" selection-end-column="15" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FileEditorManager">
     <splitter split-orientation="vertical" split-proportion="0.5">
       <split-first>
@@ -19,29 +40,26 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-130">
+                <state relative-caret-position="635">
                   <caret line="54" column="86" selection-start-line="54" selection-start-column="86" selection-end-line="54" selection-end-column="86" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="review.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="review.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/review.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-640">
-                  <caret line="56" column="120" lean-forward="true" selection-start-line="56" selection-start-column="120" selection-end-line="56" selection-end-column="120" />
+                <state relative-caret-position="244">
+                  <caret line="128" column="204" selection-start-line="128" selection-start-column="204" selection-end-line="128" selection-end-column="204" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="lastPage.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="lastPage.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lastPage.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-232">
-                  <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
-                  <folding>
-                    <element signature="n#style#0;n#canvas#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                  </folding>
+                <state relative-caret-position="193">
+                  <caret line="41" column="75" selection-start-line="41" selection-start-column="75" selection-end-line="41" selection-end-column="75" />
                 </state>
               </provider>
             </entry>
@@ -59,20 +77,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="snow.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="snow.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/js/snow.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1190">
-                  <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="validation.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/js/validation.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="102">
-                  <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+                <state relative-caret-position="119">
+                  <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
                 </state>
               </provider>
             </entry>
@@ -94,6 +103,9 @@
       <find>btn</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -102,10 +114,10 @@
         <option value="$PROJECT_DIR$/css/Review.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/snow.js" />
-        <option value="$PROJECT_DIR$/lastPage.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/review.html" />
         <option value="$PROJECT_DIR$/js/validation.js" />
+        <option value="$PROJECT_DIR$/review.html" />
+        <option value="$PROJECT_DIR$/lastPage.html" />
       </list>
     </option>
   </component>
@@ -123,6 +135,7 @@
     <option name="width" value="974" />
     <option name="height" value="1057" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -185,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.review.html">
+  <component name="RunManager" selected="JavaScript Debug.lastPage.html">
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/test9-33/index.html" />
     <configuration name="lastPage.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/test9-33/lastPage.html" />
     <configuration name="review.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/test9-33/review.html" />
@@ -196,9 +209,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.lastPage.html" />
         <item itemvalue="JavaScript Debug.review.html" />
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.lastPage.html" />
       </list>
     </recent_temporary>
   </component>
@@ -213,12 +226,12 @@
       <option name="presentableId" value="Default" />
       <updated>1528287106964</updated>
       <workItem from="1528287108429" duration="51699000" />
-      <workItem from="1528343235971" duration="18986000" />
+      <workItem from="1528343235971" duration="19854000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70685000" />
+    <option name="totallyTimeSpent" value="71553000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="96" y="0" width="974" height="1057" extended-state="0" />
@@ -228,7 +241,7 @@
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info anchor="bottom" id="Run" order="7" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="2" />
@@ -286,37 +299,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rater-js-master/index.js" />
     <entry file="file://$PROJECT_DIR$/node_modules/rater-js/lib/rater-js.js" />
-    <entry file="file://$PROJECT_DIR$/js/snow.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1190">
-          <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="345" column="15" lean-forward="true" selection-start-line="345" selection-start-column="15" selection-end-line="345" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lastPage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-232">
-          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
-          <folding>
-            <element signature="n#style#0;n#canvas#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-130">
-          <caret line="54" column="86" selection-start-line="54" selection-start-column="86" selection-end-line="54" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/star.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -324,17 +306,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/review.html">
+    <entry file="file://$PROJECT_DIR$/js/validation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-640">
-          <caret line="56" column="120" lean-forward="true" selection-start-line="56" selection-start-column="120" selection-end-line="56" selection-end-column="120" />
+        <state relative-caret-position="187">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/validation.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        <state relative-caret-position="635">
+          <caret line="54" column="86" selection-start-line="54" selection-start-column="86" selection-end-line="54" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="128" column="204" selection-start-line="128" selection-start-column="204" selection-end-line="128" selection-end-column="204" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/snow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-866">
+          <caret line="345" column="15" lean-forward="true" selection-start-line="345" selection-start-column="15" selection-end-line="345" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lastPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="41" column="75" selection-start-line="41" selection-start-column="75" selection-end-line="41" selection-end-column="75" />
         </state>
       </provider>
     </entry>
