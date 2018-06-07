@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="icon" href="favicon.ico">
+  <title>Starter Template for Bootstrap</title>
+  <!-- Bootstrap core CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+  <!-- Icon library -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- Custom styles -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header class="header full-width">
+  <div class="wrapper">
+    <h6 class="header__title mb-2">Vengetik</h6>
+    <article class="header__review">
+      <div class="review__bar">
+        <span class="review__mark">4.8</span>
+        <article class="review__stars">
+          <span class="fa fa-star header-star-checked"></span>
+          <span class="fa fa-star header-star-checked"></span>
+          <span class="fa fa-star header-star-checked"></span>
+          <span class="fa fa-star header-star-checked"></span>
+          <span class="fa fa-star header-star-unchecked"></span>
+        </article>
+      </div>
+      <small class="review__quantity">98 reviews</small>
+    </article>
+  </div>
+</header>
+
+<!--MAIN MOBILE-->
+<main class="main-mobile">
+  <h1 class="main__title h2 text-center mt-4">Thank you for being honest<br><small>Would you like give a review?</small></h1>
+  <section class="main__buttons d-flex flex-column">
+    <a href="#" class="main__google-btn btn text-white btn-primary btn-lg ml-4 mr-4 mt-4 mb-3">
+      <span class="fa fa-google align-baseline"></span>
+      Google
+    </a>
+    <a href="#" class="main__facebook-btn btn text-white btn-primary btn-lg ml-4 mr-4 mt-0 mb-3">
+      <span class="fa fa-facebook align-baseline"></span>
+      Facebook
+    </a>
+    <a href="#" class="main__vk-btn btn text-white btn-primary btn-lg ml-4 mr-4 mt-0 mb-2">
+      <span class="fa fa-vk align-baseline"></span>
+      Вконтакте
+    </a>
+  </section>
+  <p class="main__review-info text-center">Lorem ipsum dolor sit amet, consectetur adipisicing <a href="#">elit?</a></p>
+</main>
+
+<!--MAIN DESKCTOP-->
+<main class="main-descktop">
+  <h1 class="main__title h2 text-center mt-5">How was your experience?<br>
+    <small class="text-muted text-center d-block mt-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet cumque delectus dolore, nam natus neque officia temporibus ut. A delectus nostrum officia soluta vitae. Ipsa..
+    </small>
+  </h1>
+  <section class="main__media-buttons d-flex flex-column align-items-center">
+    <a href="#" class="main__google-btn btn text-white btn-primary mt-4">
+      <p class="main__btn-icon fa fa-google"></p>
+      <p class="main__btn-name">Leave a comment on Google</p>
+    </a>
+    <a href="#" class="main__facebook-btn btn text-white btn-primary mt-1">
+      <span class="main__btn-icon fa fa-facebook"></span>
+      <p class="main__btn-name">Leave a comment on Facebook</p>
+    </a>
+    <a href="#" class="main__vk-btn btn text-white btn-primary mt-1">
+      <span class="main__btn-icon fa fa-vk"></span>
+      <p class="main__btn-name">Leave a comment on Вконтакте</p>
+    </a>
+  </section>
+  <section class="main__issue d-flex flex-column align-items-center">
+    <p class="issue__info text-center mt-3">Have a unsolved issue?</p>
+    <!--LOGIN MODULE TRIGGER-->
+    <button class="btn btn-issue" data-toggle="modal" data-target="#loginModal">
+      <span class="issue__icon fa fa-wheelchair-alt"></span>
+      <p class="issue__btn-name">Contact us</p>
+    </button>
+    <!--MODAL-->
+    <div class="modal" id="loginModal">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Login</h5>
+            <button class="close" data-dismiss="modal">&times;</button>
+          </div>
+          <div class="modal-body">
+            <form>
+              <div class="form-group">
+                <label for="username">Username</label>
+                <input id="username" type="text" placeholder="Username" class="form-control">
+              </div>
+              <div class="form-group">
+                <label for="message">Message</label>
+                <textarea id="message" rows="5" class="form-control"></textarea>
+              </div>
+            </form>
+          </div>
+          <div class="modal-footer">
+            <button class="btn btn-secondary" data-dismiss="modal">Close</button>
+            <a href="lastPage.html" class="btn btn-primary">Send</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="footer mt-4">
+  <article class="footer__copyright">
+    <p class="text-muted text-center mb-1">Lorem ipsum dolor sit amet, consectetur <br> adipisicing elit.</p>
+    <p class="footer__company text-weight-bold text-center text-uppercase mb-1">Lorem ipsum. ✇<small class="text-lowercase">kutak</small></p>
+    <p class="text-muted text-center text-capitalize">Lorem ipsum dolor sit.</p>
+  </article>
+</footer>
+<!-- Bootstrap core JavaScript
+  ================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+</body>
+</html>
