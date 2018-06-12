@@ -122,11 +122,12 @@ body {
 
 .header__title {
   color: white;
-  margin-bottom: 20px;
 }
 .header__review {
   display: flex;
   flex-direction: row;
+
+  margin-top: 22px;
 }
 .review__bar {
   display: flex;
@@ -301,7 +302,7 @@ body {
     padding-left: 40px;
   }
   .header__title {
-    margin-bottom: 20px; !important;
+    margin-bottom: 20px;
   }
   .rate__text {
     top: 290px;
@@ -346,9 +347,7 @@ body {
     top: 200px;
     left: 194px;
   }
-  .header__review {
-    margin-top: 18px;
-  }
+
 
   .main__google-btn,
   .main__facebook-btn,
